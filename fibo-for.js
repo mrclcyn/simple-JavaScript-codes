@@ -1,0 +1,1 @@
+for (let i = 0, j = 1; j < 100; i += j, j += i) console.log(`${i}\n${j}`)
